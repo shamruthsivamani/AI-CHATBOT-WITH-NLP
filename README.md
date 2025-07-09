@@ -170,3 +170,5 @@ Conclusion
 
 Python, combined with NLP, provides a powerful platform for building AI chatbots capable of understanding and responding to human language. With the help of libraries like NLTK, spaCy, and machine learning frameworks, developers can create intelligent, conversational agents that improve user experience, automate tasks, and drive engagement. As NLP continues to evolve, Python-based chatbots will become even more capable, context-aware, and human-like in the future.
 
+#OUTPUT:
+![Image](https://github.com/user-attachments/assets/ff2000ed-b354-4dea-b5ce-a73584863fd9)
